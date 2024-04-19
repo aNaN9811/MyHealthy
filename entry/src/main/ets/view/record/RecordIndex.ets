@@ -1,4 +1,3 @@
-import { CommonConstants } from '../../common/constants/CommonConstants'
 import DateUtil from '../../common/utils/DateUtil'
 import RecordService from '../../service/RecordService'
 import RecordVO from '../../viewmodel/RecordVO'

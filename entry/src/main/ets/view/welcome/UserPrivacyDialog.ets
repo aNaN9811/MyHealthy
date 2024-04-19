@@ -1,4 +1,3 @@
-
 import { CommonConstants } from '../../common/constants/CommonConstants'
 
 @CustomDialog
@@ -8,7 +7,7 @@ export default struct UserPrivacyDialog {
   cancel: () => void
 
   build() {
-    Column({space: CommonConstants.SPACE_10}){
+    Column({ space: CommonConstants.SPACE_10 }) {
       // 1.标题
       Text($r('app.string.user_privacy_title'))
         .fontSize(20)

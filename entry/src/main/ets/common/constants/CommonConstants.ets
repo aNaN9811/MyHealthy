@@ -1,4 +1,3 @@
-
 export class CommonConstants {
   static readonly RDB_NAME: string = 'HealthyLife.db'; // db name
 
@@ -24,51 +23,31 @@ export class CommonConstants {
   static readonly THOUSANDTH_1000: string = '100%'; // ‘100%’
 
   static readonly DEFAULT_2: number = 2;
-
   static readonly DEFAULT_6: number = 6;
-
   static readonly DEFAULT_8: number = 8;
-
   static readonly DEFAULT_12: number = 12;
-
   static readonly DEFAULT_10: number = 10;
-
   static readonly DEFAULT_16: number = 16;
-
   static readonly DEFAULT_18: number = 18;
-
   static readonly DEFAULT_20: number = 20;
-
   static readonly DEFAULT_24: number = 24;
-
   static readonly DEFAULT_28: number = 28;
-
   static readonly DEFAULT_32: number = 32;
-
   static readonly DEFAULT_48: number = 48;
-
   static readonly DEFAULT_56: number = 56;
-
   static readonly DEFAULT_60: number = 60;
-
   static readonly DEFAULT_100: number = 100;
-
   static readonly DEFAULT_180: number = 180;
 
   // fontWeight
   static readonly FONT_WEIGHT_400: number = 400;
-
   static readonly FONT_WEIGHT_500: number = 500;
-
   static readonly FONT_WEIGHT_600: number = 600;
-
   static readonly FONT_WEIGHT_700: number = 700;
-
   static readonly FONT_WEIGHT_900: number = 900;
 
   // opacity
   static readonly OPACITY_4: number = 0.4;
-
   static readonly OPACITY_6: number = 0.6;
 
   // radius
@@ -81,24 +60,16 @@ export class CommonConstants {
 
   // space
   static readonly SPACE_2: number = 2;
-
   static readonly SPACE_4: number = 4;
-
   static readonly SPACE_6: number = 6;
-
   static readonly SPACE_8: number = 8;
-
   static readonly SPACE_10: number = 10;
-
   static readonly SPACE_12: number = 12;
 
   // global data key
   static readonly STORE: string = 'MyHealthyStore';
-
   static readonly RECORD_DATE: string = 'selectedDate';
-
   static readonly PACKAGE_NAME: string = 'com.itheima.healthylife';
-
   static readonly ENTRY_ABILITY: string = 'EntryAbility';
 
   /**

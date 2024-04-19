@@ -1,4 +1,4 @@
-export default class RecordPO{
+export default class RecordPO {
   /**
    * 记录id
    */

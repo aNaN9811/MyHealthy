@@ -48,6 +48,7 @@ export default struct RecordList {
                       Text(item.recordItem.name).fontWeight(CommonConstants.FONT_WEIGHT_500)
                       Text(`${item.amount}${item.recordItem.unit}`).grayText()
                     }
+
                     Blank()
                     Text(`${item.calorie.toFixed(0)}千卡`).grayText()
                   }
